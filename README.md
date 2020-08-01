@@ -25,5 +25,4 @@ The program comes with a swanky Makefile for you to automagically compile the .c
 $ gcc -o funparenthmatcharr funparenthmatcharr.c 
 ```
 
-### To Do
-Add conversion for larger numbers
+
